@@ -1,2 +1,2 @@
 # stepik-36
-Solving task 36 on the Stepik course
+Solving task 3.6 on the Stepik course
